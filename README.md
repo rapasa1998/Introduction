@@ -1,6 +1,6 @@
 ### Hi , I am Palak 👋
 
-<!--
+
 **webdeveloperpm/webdeveloperpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://pin.it/4boxqJY" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: palakvansh98@gmail.com @PalakMa51988378 https://www.linkedin.com/in/palak-maheshwari-924526168
 - 😄 Pronouns: She/Her
 - ⚡ We can talk about creating amazing website
--->
