@@ -1,7 +1,5 @@
 ### Hi , I am Palak 👋
 
-<img align="center" src="https://pin.it/3e2z0NI" height="100" />
-
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning React and Competitive Programming
 - 👯 I’m looking to collaborate on Frontend Developer
